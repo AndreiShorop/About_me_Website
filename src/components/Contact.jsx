@@ -122,16 +122,6 @@ export default function Contact() {
               </div>
             </div>
 
-            {/* Availability badge */}
-            <div className="glass-card p-5 rounded-2xl flex items-center gap-4">
-              <div className="w-3 h-3 rounded-full bg-green-400 animate-pulse flex-shrink-0" />
-              <div>
-                <p className="text-textPrimary font-semibold text-sm">Available for opportunities</p>
-                <p className="text-textMuted text-xs mt-0.5">
-                  Actively looking for Azubi positions &amp; internships
-                </p>
-              </div>
-            </div>
           </motion.div>
 
           {/* Right — contact form */}
